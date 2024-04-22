@@ -33,6 +33,13 @@ The system will monitor the water level and temperature of the water in the and 
 ## Experiment
 ![image](https://github.com/VanHuyTran24/Water-Tank-Level-Monitoring-System-With-Ultrasonic-Sensor/assets/166670555/13029111-67c2-4713-8e7e-02617cc1bac1)
 
+## Plot of water level versus time of pumping
+![image](https://github.com/VanHuyTran24/Water-Tank-Level-Monitoring-System-With-Ultrasonic-Sensor/assets/166670555/59fcae6f-e66c-4746-baaf-3dd3ccee43f8)
+
+Blue line – Noise-unfiltered
+
+Orange line – Noise-filtered
+
 ## Report
 Download report file (.docx) from [here](https://github.com/VanHuyTran24/Water-Tank-Level-Monitoring-System-With-Ultrasonic-Sensor/blob/main/PROJECT/Report.docx)
 
