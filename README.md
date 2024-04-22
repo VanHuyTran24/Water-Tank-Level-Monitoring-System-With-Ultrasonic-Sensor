@@ -26,8 +26,6 @@ This is a water pump system with 2 modes:
 These 2 modes are switched by switch.
 The system will monitor the water level and temperature of the water in the and output it to the screen including the water level, mode, pump status and water temperature in the tank.
 
-![image](https://github.com/VanHuyTran24/Water-Tank-Level-Monitoring-System-With-Ultrasonic-Sensor/assets/166670555/1d602e1b-d0fb-4d30-866c-e31394eae155)
-
 ## Pinout Diagram
 ![image](https://github.com/VanHuyTran24/Water-Tank-Level-Monitoring-System-With-Ultrasonic-Sensor/assets/166670555/cd2e35aa-72cb-4dbd-999d-01cf5bc35c18)
 
